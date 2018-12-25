@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<resources>
+    <string name="app_name">Camera Filter</string>
+    <string name="intro_message">
+        <![CDATA[
+            Это приложение демонстрирует работу фотокамеры реализованного через Android Camera2 API с постобработкой фильтром размытия или резкости.
+
+            Автор: oleggy.gvz@gmail.com
+        ]]>
+    </string>
+</resources>

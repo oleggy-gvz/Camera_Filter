@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+    <string name="picture">Снимок</string>
+    <string name="description_info">О программе</string>
+    <string name="request_permission">Этому приложению нужено разрешение на доступ к камере.</string>
+    <string name="camera_error">Это устройство не поддерживает интерфейс Camera2 API.</string>
+    <string name="blur">Разытие</string>
+    <string name="emboss">Четкость</string>
+    <string name="save">Сохранить</string>
+</resources>
