@@ -18,6 +18,8 @@ Pre-requisites
 Demonstration
 -------------
 
-<a href="https://youtu.be/DMTnrTiOYiI">Video demo outdoor</a>
+Demonstration of the application as a video screen recording:
 
-<a href="https://youtu.be/LC3h3YrfDpA">Video demo in front of LCD screen</a>
+- <a href="https://youtu.be/DMTnrTiOYiI">in outdoor</a>;
+
+- <a href="https://youtu.be/LC3h3YrfDpA">front of LCD screen</a>.
