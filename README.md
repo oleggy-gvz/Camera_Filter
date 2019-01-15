@@ -2,7 +2,7 @@
 Android Camera Filter
 ===================================
 
-A simple Android application with:
+A simple camera filter android application demonstrates the main features:
 - display of the preview window on the device screen;
 - triggering autofocus in the process of the preview;
 - turning on the flash before starting the snapshot process, depending on the shading of the environment;
