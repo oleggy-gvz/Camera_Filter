@@ -17,7 +17,8 @@ Pre-requisites
 Screen recording
 -------------
 
-https://youtu.be/DMTnrTiOYiI
+<a href="https://youtu.be/DMTnrTiOYiI">Demo outdoor</a>
+<a href="https://youtu.be/DMTnrTiOYiI">Demo in front of LCD screen</a>
 
 Getting Started
 ---------------
