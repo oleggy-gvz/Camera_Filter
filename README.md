@@ -17,7 +17,7 @@ Pre-requisites
 Screen recording
 -------------
 
-<iframe width="560" height="315" src="https://youtu.be/DMTnrTiOYiI" frameborder="0" allowfullscreen></iframe>
+https://youtu.be/DMTnrTiOYiI
 
 Getting Started
 ---------------
