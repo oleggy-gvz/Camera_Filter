@@ -18,7 +18,7 @@ Pre-requisites
 Demonstration
 -------------
 
-Demonstration of the application as a video screen recording:
+Demonstration of application as a video screen recording:
 
 - <a href="https://youtu.be/DMTnrTiOYiI">in outdoor</a>;
 
