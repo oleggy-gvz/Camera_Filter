@@ -15,7 +15,7 @@ Pre-requisites
 
 - Android SDK 27
 
-Screen recording
+Demonstration
 -------------
 
 <a href="https://youtu.be/DMTnrTiOYiI">Video demo outdoor</a>
